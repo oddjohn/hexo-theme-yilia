@@ -6,10 +6,10 @@ menu:
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/oddjohn"
+  weibo: "http://weibo.com/lovingjohn"
+  #rss: "#"
+  #zhihu: "#"
   #douban: "#"
   #mail: "#"
   #facebook: "#"
@@ -29,7 +29,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar: ""
+avatar: "/img/me.jpg"
 #是否开启分享
 share: true
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
